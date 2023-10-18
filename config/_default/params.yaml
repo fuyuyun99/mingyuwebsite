@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Minimal
+  theme_night: Minimal
+  font: Minimal
   font_size: L
 
 # SEO
@@ -24,7 +24,7 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''  
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
