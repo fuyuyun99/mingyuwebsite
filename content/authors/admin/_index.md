@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Mingyu Wang is a MS student in department of statistics at UW-Madison. Before that, he got his bachelor's degree from Dept. of Statistics and Finance at USTC. His research interests lies in the theory of probability and stochastic process, and their application in stochastic control and mathematical finance.
+Mingyu Wang is a MS student in the department of statistics at UW-Madison. Before that, he was a visiting student at UW-madison and got his bachelor's degree from the Dept. of Statistics and Finance at USTC. His research interests lies in the theory of probability and stochastic process, and their application in stochastic control and mathematical finance.
 {style="text-align: justify;"}

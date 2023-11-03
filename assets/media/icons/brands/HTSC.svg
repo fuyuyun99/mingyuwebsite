@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="68.405998"
+   viewBox="0 0 70 68.406"
+   width="70"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="HTSC.svg"
+   inkscape:export-filename="../../Desktop/HTSC.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="Huatai_logo"
+     transform="translate(4.7838165,6.4938165)"
+     style="display:inline">
+    <g
+       data-name="Group 3679"
+       id="Group_3679"
+       transform="translate(-1.271489,-5.6743126)">
+      <path
+         d="m 21.713,17.538 a 1.784,1.784 0 0 1 0,-2.513 L 33.8,2.934 A 1.74,1.74 0 0 1 34.442,2.52 H 11.073 A 6.845,6.845 0 0 0 4.23,9.363 V 32.735 A 1.74,1.74 0 0 1 4.644,32.093 L 16.735,20 a 1.771,1.771 0 0 1 2.513,0 l 12.09,12.09 a 1.771,1.771 0 0 1 0,2.513 L 19.7,46.241 v 24.678 h 13.648 v -41.74 z"
+         data-name="Path 18219"
+         fill="#d93916"
+         id="Path_18219"
+         transform="translate(-4.23,-2.52)" />
+      <path
+         d="M 87.715,48.7 76.08,60.341 v 24.67 h 5.206 a 6.844,6.844 0 0 0 6.843,-6.836 V 48.05 a 1.657,1.657 0 0 1 -0.414,0.642"
+         data-name="Path 18220"
+         fill="#d93916"
+         id="Path_18220"
+         transform="translate(-26.469,-16.612)" />
+      <path
+         d="M 4.644,48.7 A 1.74,1.74 0 0 1 4.23,48.058 v 30.121 a 6.84,6.84 0 0 0 6.843,6.836 h 5.206 V 60.344 Z"
+         data-name="Path 18221"
+         fill="#d93916"
+         id="Path_18221"
+         transform="translate(-4.23,-16.615)" />
+      <path
+         d="m 52.87,34.607 a 1.771,1.771 0 0 1 0,-2.513 L 64.961,20 a 1.78,1.78 0 0 1 2.52,0 l 12.09,12.09 a 1.832,1.832 0 0 1 0.414,0.642 V 9.363 A 6.845,6.845 0 0 0 73.143,2.52 H 49.77 a 1.74,1.74 0 0 1 0.642,0.414 L 62.5,15.025 a 1.784,1.784 0 0 1 0,2.513 L 50.868,29.179 v 41.74 H 64.512 V 46.248 L 52.877,34.607 Z"
+         data-name="Path 18222"
+         fill="#d93916"
+         id="Path_18222"
+         transform="translate(-18.325,-2.52)" />
+      <path
+         d="m 31.338,42.206 a 1.771,1.771 0 0 0 0,-2.513 L 19.255,27.6 a 1.771,1.771 0 0 0 -2.513,0 l -12.1,12.09 a 1.823,1.823 0 0 0 -0.414,0.649 v 1.222 a 1.74,1.74 0 0 0 0.414,0.642 L 16.279,53.841 V 78.512 H 19.7 V 53.834 L 31.331,42.192 Z"
+         data-name="Path 18223"
+         fill="#ffffff"
+         id="Path_18223"
+         transform="translate(-4.23,-10.119)" />
+      <path
+         d="M 80.726,42.212 A 1.832,1.832 0 0 0 81.14,41.57 v -1.222 a 1.657,1.657 0 0 0 -0.414,-0.642 l -12.09,-12.09 a 1.779,1.779 0 0 0 -2.52,0 l -12.09,12.09 a 1.771,1.771 0 0 0 0,2.513 L 65.66,53.861 v 24.671 h 3.425 V 53.861 L 80.72,42.219 Z"
+         data-name="Path 18224"
+         fill="#ffffff"
+         id="Path_18224"
+         transform="translate(-19.481,-10.126)" />
+      <path
+         d="m 56.012,17.538 a 1.784,1.784 0 0 0 0,-2.513 L 43.922,2.934 A 1.74,1.74 0 0 0 43.28,2.52 h -1.23 a 1.74,1.74 0 0 0 -0.642,0.414 l -12.09,12.09 a 1.784,1.784 0 0 0 0,2.513 l 11.641,11.642 v 41.74 h 3.418 v -41.74 z"
+         data-name="Path 18225"
+         fill="#ffffff"
+         id="Path_18225"
+         transform="translate(-11.835,-2.52)" />
+    </g>
+  </g>
+  <rect
+     style="fill:none;stroke-width:1.00157;stroke-dasharray:none"
+     id="rect3"
+     width="64.483459"
+     height="70.377106"
+     x="-1.0400558"
+     y="-1.0400558" />
+</svg>

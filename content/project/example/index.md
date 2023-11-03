@@ -1,26 +1,21 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+title: Optimal Service Rate Control Considering Patients’ Retrial
+summary: We built a 2-dimensional queueing model to simulate such a circumstance, after treatment at the hospital, there is a certain probability that the patient will go back to the hospital for treatment. Under the long-run cost, we investigated how to optimally control the service rate of the hospital to minimize the overall cost.
+# tags:
+#   - Deep Learning
+date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 1-page slide
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.bilibili.com/video/BV17s4y1Q7AE/?spm_id_from=333.999.0.0&vd_source=d41be1ecc37e7751c802a57b1f9793cd'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

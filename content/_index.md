@@ -58,7 +58,7 @@ sections:
         - title: Quantitative Research Intern
           company: HUATAI SECURITIES CO.,LTD.
           company_url: ''
-          company_logo: org-gc
+          company_logo: HTSC
           location: Shanghai
           date_start: '2023-08-01'
           date_end: '2023-09-30'
@@ -68,16 +68,28 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Teaching Assistant for Stochastic Processes A
+          company: University of Science and Technology of China (USTC)
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: USTC
+          location: Hefei
+          date_start: '2022-02-01'
+          date_end: '2020-06-30'
+          description: |2-
+              Responsibilities include:
+
+              * Giving lectures, office hour and grading
+              * Got top 5% TA rate score and the Outstanding Teaching Assistant award
+        - title: Student Research Intern 
+          company: College of Engineering, CityU
+          company_url: ''
+          company_logo: CityU
+          location: HongKong
+          date_start: '2019-09-01'
+          date_end: '2020-06-30'
+          description: Organized campus events such as dances, photo exhibitions and conferences.
         - title: Executive Vice-President of Student Union 
-          company: University of Science and Technology of China
+          company: University of Science and Technology of China (USTC)
           company_url: ''
           company_logo: USTC
           location: Hefei
@@ -85,7 +97,7 @@ sections:
           date_end: '2020-06-30'
           description: Organized campus events such as dances, photo exhibitions and conferences.
     design:
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -100,13 +112,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
